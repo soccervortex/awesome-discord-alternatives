@@ -20,6 +20,11 @@ use, actively developed, feature requests and bug reports are taken seriously.
 Gaming-focused chat platform with built-in scheduling, forums, and LFG tools, aimed at gaming
 communities specifically.
 
+### [GusGon](https://gusgon.com/)
+Fast, low-latency voice, video, screen-sharing, and community chat platform. Supports servers
+with custom roles and permissions, direct messages, profile themes, and an official bot ecosystem
+powered by the open source [Gusgon.js](https://github.com/xenpian/gusgon.js) SDK.
+
 ### [Revolt](https://revolt.chat/)
 Open source Discord-like chat app with a very similar UI/UX to Discord. Has official hosted
 instances plus self-hosting support.
